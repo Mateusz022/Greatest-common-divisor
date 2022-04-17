@@ -14,7 +14,7 @@
 - This greatest-common-divisor calculator is wriiten in c# language
 
 # Setup
-- To run this project all you have to do is installing visual studio and then copy the code below
+- To run this project all you have to do is installing visual studio and then copy the code 
 
 
 # Code
